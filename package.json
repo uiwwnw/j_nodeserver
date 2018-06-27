@@ -1,0 +1,20 @@
+{
+  "name": "nodejsserver",
+  "version": "1.0.0",
+  "description": "uiwwnw's nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uiwwnw/j_nodeserver.git"
+  },
+  "author": "uiwwnw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
